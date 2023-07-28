@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 // ROUTE ELEMENT DIRECTORY
-import Home from '../pages/home/Home';
+import Home from '../pages/home/Pages';
 
 
 export default function AppRoutes() {
