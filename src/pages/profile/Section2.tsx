@@ -4,7 +4,7 @@ export default function Section2() {
 			<div className="">
 				{/* Grid layout */}
 				{/* Text content */}
-				<div className="md:grid lg:grid md:grid-cols-2 lg:grid-cols-2 md:gap-5 lg:gap-5 grid-rows-2 relative lg:top-28 md:top-36 top-32 ">
+				<div className="md:grid lg:grid md:grid-cols-2 lg:grid-cols-2 md:gap-5 lg:gap-5 grid-rows-2 relative lg:top-28 md:top-36 -top-32 ">
 					<div className="lg:ml-80 md:ml-80 mx-8">
 						<div className="">
 							<p className="pt-7 pb-1 text-4xl font-bold text-violet-950">
