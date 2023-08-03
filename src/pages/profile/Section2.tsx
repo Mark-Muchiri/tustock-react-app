@@ -4,7 +4,7 @@ export default function Section2() {
 			<div className="">
 				{/* Grid layout */}
 				{/* Text content */}
-				<div className="md:grid lg:grid md:grid-cols-2 lg:grid-cols-2 md:gap-5 lg:gap-5 grid-rows-2 relative lg:top-28 md:top-36 -top-32 ">
+				<div className="md:grid lg:grid md:grid-cols-2 lg:grid-cols-2 md:gap-5 lg:gap-5 relative lg:top-28 md:top-36 top-32 ">
 					<div className="lg:ml-80 md:ml-80 mx-8">
 						<div className="">
 							<p className="pt-7 pb-1 text-4xl font-bold text-violet-950">
@@ -34,7 +34,7 @@ export default function Section2() {
 								cover any part of the water network to deliver
 								data to FIDO AI for real time data analysis.
 							</p>
-							<a className="relative top-4" href="/">
+							<a className="relative top-6 " href="/">
 								<button className="bg-orange-500 text-white font-medium py-1 px-3 rounded-md">
 									Learn More
 								</button>
@@ -42,7 +42,7 @@ export default function Section2() {
 						</div>
 					</div>
 					{/* image box */}
-					<div className="relative md:top-8 lg:top-8 top-4 md:ml-44 lg:ml-44 ">
+					<div className="relative md:top-8 lg:top-8 top-10 md:ml-44 lg:ml-44 px-4 ">
 						<img
 							src="https://images.unsplash.com/photo-1596199050105-6d5d32222916?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFybWluZ3xlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
 							alt="tomatoes on a tree"
